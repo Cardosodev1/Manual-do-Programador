@@ -1,5 +1,5 @@
 ## Módulo 1: Pensamento Computacional e Algoritmos
-Agora que entendemos onde o software vive (Hardware, SO e Web), precisamos aprender a construir as instruções que o fazem funcionar. Este módulo foca na **Lógica de Programação**, que é universal e independente de linguagem.
+Antes de escrever código, precisamos entender a lógica por trás das instruções. Este arquivo cobre os fundamentos de como um programa é estruturado e como ele armazena informações.
 
 ---
 
