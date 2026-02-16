@@ -7,6 +7,7 @@ Um guia completo do zero ao avançado para aspirantes a desenvolvedor, estrutura
 ## 📌 Índice
 
 1. [Módulo 0: O Mundo Digital (Fundamentos)](https://github.com/Cardosodev1/Manual-do-Programador/tree/main/modulo%200)
+2. [Módulo 1: Pensamento Computacional e Algoritmos](https://github.com/Cardosodev1/Manual-do-Programador/tree/main/modulo%201)
 
 ---
 
