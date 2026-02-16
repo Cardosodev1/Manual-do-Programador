@@ -40,7 +40,7 @@ Estes operadores são usados para criar **expressões lógicas** que resultam se
 
 ---
 
-#### 3. Operadores Lógicos (Conectivos)
+### 3. Operadores Lógicos (Conectivos)
 Usados para unir duas ou mais comparações em uma única expressão.
 
 * **E (AND):** Resulta em verdadeiro apenas se **todas** as condições forem verdadeiras.
