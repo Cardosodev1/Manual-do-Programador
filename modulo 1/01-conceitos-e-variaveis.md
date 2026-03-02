@@ -1,4 +1,4 @@
-## Módulo 1: Pensamento Computacional e Algoritmos
+## Módulo 1.1: Pensamento Computacional e Algoritmos
 Antes de escrever código, precisamos entender a lógica por trás das instruções. Este arquivo cobre os fundamentos de como um programa é estruturado e como ele armazena informações.
 
 ---
