@@ -1,4 +1,4 @@
-# Módulo 1.6: Funções (Rotinas - Parte 2)
+## Módulo 1.6: Funções (Rotinas - Parte 2)
 
 As **Funções** são o segundo tipo de rotina que podemos utilizar. Assim como os procedimentos, elas servem para isolar blocos de código, mas com uma diferença fundamental: elas **retornam um valor** ao final de sua execução.
 
