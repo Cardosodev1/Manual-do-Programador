@@ -1,4 +1,4 @@
-# Módulo 1.3: Estruturas Condicionais (Seleção)
+## Módulo 1.3: Estruturas Condicionais (Seleção)
 Até agora, nossos algoritmos seguiam uma linha reta do início ao fim. As **Estruturas Condicionais** permitem que o programa tome caminhos diferentes baseados em condições, dando "inteligência" ao código.
 
 ---
