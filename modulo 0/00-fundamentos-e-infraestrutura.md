@@ -1,4 +1,4 @@
-## Módulo 0: O Mundo Digital (Fundamentos)
+## Módulo 0.0: O Mundo Digital (Fundamentos)
 Neste módulo, mergulhamos no que acontece "debaixo do capô" antes mesmo de escrevermos nossa primeira linha de código. Entender a infraestrutura é o que diferencia um "digitador de código" de um programador que domina o ambiente onde seu software vive.
 
 ---
